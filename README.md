@@ -1,2 +1,2 @@
 # sympoiesis
-From Greek syn- (together, with) + poiesis (making, creation)
+from Greek syn- (together, with) + poiesis (making, creation)
